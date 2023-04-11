@@ -1,0 +1,20 @@
+
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+.container{
+    position: relative;
+    width: 300px;
+    height: 150px;
+    left: 0;
+    top: 0;
+}
+p{
+    color: #fff;
+    font-size: 130px;
+    margin: 0;
+}
